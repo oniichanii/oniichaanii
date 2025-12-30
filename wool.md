@@ -36,3 +36,8 @@
 <div align="center">
   <p style="color: #3a352f; font-size: 12px;">"strictly ivory. strictly sturdy. no loose threads." 🏁</p>
 </div>
+<div align="center">
+  <p style="color: #3a352f; font-size: 14px; opacity: 0.8;">
+    🧶 <i>"the archive is never finished, only knitted further."</i> 🏁
+  </p>
+</div>
